@@ -1,0 +1,15 @@
+,service_name
+0,annual_vaccination
+1,rabies_vaccination
+2,physical_examination
+3,blood_test
+4,other_test
+5,imaging
+6,deworming
+7,anti_parasitic_treatment
+8,travel_papers
+9,sterilization
+10,dental_surgery
+11,orthopaedic_surgery
+12,mass_removal
+13,other_surgery

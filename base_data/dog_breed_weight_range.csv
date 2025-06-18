@@ -1,0 +1,38 @@
+﻿breed,male_min_weight,male_max_weight,female_min_weight,female_max_weight
+alaskan malamute,36,43,32,38
+australian shepherd,19,30,17,25
+beagle,10,20,10,20
+belgian shepherd,25,35,20,30
+brittany spaniel,13,18,13,18
+ca de bou,35,38,30,34
+canaan,20,27,18,25
+cane corso,45,50,40,45
+chihuahua,2.5,4,2,3.5
+chowchow,27,32,22,30
+cocker spaniel,10,15,8,13
+doberman,29,32,27,30
+english setter,26,32,24,28
+fox terrier,6,10,4.5,8
+french bulldog,10,15,9,13
+german shepherd,30,45,22,32
+golden retriever,28,35,24,30
+greyhound,30,35,25,28
+husky,20,27,17,24
+irish terrier,11,14,10,13
+king charles cavalier,5,10,4,8
+labrador,30,36,25,32
+maltese terrier,3,5,3,4
+mixed breed,7,42,5,35
+pinscher miniature,3.5,5,3,4.5
+pitbull,15,27,13,22
+pointer,25,35,20,30
+pomeranian,2.5,5.5,2,3.5
+poodle,3,32,3,32
+rhodesian ridgeback,40,48,35,40
+rottweiler,43,60,35,48
+saluki,20,27,17,22
+samoyed,20,30,16,23
+small breed,2,10,2,10
+staffordshire terrier,13,17,11,16
+terrier,4,8,3,7
+tibetan terrier,8,14,7,12

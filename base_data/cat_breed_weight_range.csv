@@ -1,0 +1,26 @@
+﻿breed,male_min_weight,male_max_weight,female_min_weight,female_max_weight
+angora,3,5,3,5
+arabian mau,5,8,4,6
+bengal,3.5,5.5,4.5,7
+birman,4,7,3,4
+british long hair,4,8,3,5.5
+british shorthair,4,8,3,5.5
+burmilla,3.5,6,3,3.5
+chartreux,4.5,7,3.5,5
+chinchilla,4,7,3,6
+domestic long hair,3.5,7,2.5,6
+domestic shorthair,3.5,7,2.5,6
+egyptian mau,4,6,3,4
+himalayan,3.5,5.5,3,5.5
+himalayan blue point,3.5,5.5,3,5.5
+laperm,3.5,5,2.5,4.5
+maine coon,6.5,11.5,5,8
+norwegian forest cat,4.5,9,3.5,8
+persian,3.5,5.5,3,5
+ragdoll,5,9,3.5,7
+scottish fold,4,6,3,5
+siamese,3.5,5,3,5
+shirazi,3.5,5,2.5,4
+sphynx,4,5,3,4
+turkish angora,3.5,6,3,5
+turkish van,6,9,4.5,6
